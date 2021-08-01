@@ -4,6 +4,13 @@ Soy Damián Exequiel Romeo, desarrollador en varios lenguajes, docente de electr
 
 Actualmente estoy aprendiendo de forma autodidacta JavaScript con Vue y Jquery. A su vez en Coder House estudio diseño de UX/UI.
 Skills:
+
+|   SKILLS       |
+| ----- | ---- |
+| C++ | JAVA POO |
+
+
+
 C++
 
 JAVA POO
