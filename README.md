@@ -5,29 +5,20 @@ Soy Damián Exequiel Romeo, desarrollador en varios lenguajes, docente de electr
 Actualmente estoy aprendiendo de forma autodidacta JavaScript con Vue y Jquery. A su vez en Coder House estudio diseño de UX/UI.
 Skills:
 
-|   SKILLS       |
-| ----- | ---- |
-| C++ | JAVA POO |
+ SKILLS    
 
+C++ | JAVA POO
 
+HTML | CSS | PHP
 
-C++
-
-JAVA POO
-
-HTML
-
-CSS
-
-JavaScript
+JavaScript | VUE | React
 
 WordPress
 
-Adobe XD, Lightroom y Photoshop
+Adobe XD, Lightroom y Photoshop | Figma
 
-FIGMA
-
-PHP
 Python
+
 Metodologias Agiles
+
 - 💼 Mi perfil personal [Linkedin](https://www.linkedin.com/in/damianeromeo/ "Linkedin")
